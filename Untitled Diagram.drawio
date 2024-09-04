@@ -25,9 +25,6 @@
         <mxCell id="jw3Pd1TsbGt3HCOUudb2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="420" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="jw3Pd1TsbGt3HCOUudb2-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="420" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jw3Pd1TsbGt3HCOUudb2-11" value="Client Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="90" height="30" as="geometry" />
         </mxCell>
