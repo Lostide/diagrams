@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="XDYKVdjsUP_GXMSQS33k">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jw3Pd1TsbGt3HCOUudb2-1" target="jw3Pd1TsbGt3HCOUudb2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-1" value="&lt;div&gt;dbo.DataTransferEntitySync&lt;/div&gt;Insert&amp;nbsp; from client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-2" value="Trigger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jw3Pd1TsbGt3HCOUudb2-4" target="jw3Pd1TsbGt3HCOUudb2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-4" value="dbo.DocumentSyncQueue" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="240" y="332.5" width="177.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jw3Pd1TsbGt3HCOUudb2-2" target="jw3Pd1TsbGt3HCOUudb2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-11" value="Client Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jw3Pd1TsbGt3HCOUudb2-12" value="DataTransfer Host" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
